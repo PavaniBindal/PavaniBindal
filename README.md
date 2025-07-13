@@ -1,10 +1,10 @@
 <h1>Hey, I'm Pavani Bindal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-<h2>🤓 About Me</h2>
+<h2> About Me</h2>
 
-- I am a tech enthusiast. 🤠
-- I am currently a Second year Computer Science Student. 👨‍🎓
-- I love solving real life problems through technology. 💡
+- I am a tech enthusiast.
+- I am currently a Second year Computer Science Student. 
+- I love solving real life problems through technology. 
 - Here is my [Linkedin Profile](https://www.linkedin.com/in/pavani-bindal-16b846219/). Feel free to connect! 👀
 
 <h2>🛠 Tech Stack</h2>
