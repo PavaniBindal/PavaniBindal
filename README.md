@@ -1,4 +1,4 @@
-<h1>Hey, I'm Pavani Bindal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1>Hey, I'm Pavani Bindal </h1>
 
 <h2> About Me</h2>
 
